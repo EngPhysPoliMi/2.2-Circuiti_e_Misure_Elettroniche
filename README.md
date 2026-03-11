@@ -1,6 +1,6 @@
-# x.y - Template
+# 2.2 - Circuiti e Misure Elettroniche
 
-Repository for "Template".
+Repository for "Circuiti e Misure Elettroniche".
 
 
 ## Use instructions
