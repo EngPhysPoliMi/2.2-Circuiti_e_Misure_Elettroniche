@@ -1,0 +1,2 @@
+Libri/* filter=lfs diff=lfs merge=lfs -text
+Libri/Libro[[:space:]]Misure/* filter=lfs diff=lfs merge=lfs -text
